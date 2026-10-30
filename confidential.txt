@@ -1,0 +1,44 @@
+==================================================
+Device Name       :  SanDisk 3.2Gen1
+Description       : USB Mass Storage Device
+Device Type       : Mass Storage
+Connected         : Yes
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 0401dd5efbc4c2e4695382fe13eabff0fd065035bee34b2939e08d9afcf762490e84000000000000000000007e3aba88ff867d18815581076a31690f
+Registry Time 1   : 10/30/2026 8:56:18 AM
+Registry Time 2   : 10/30/2026 8:56:15 AM
+VendorID          : 0781
+ProductID         : 5581
+Firmware Revision : 1.00
+WCID              : 
+USB Class         : 08
+USB SubClass      : 06
+USB Protocol      : 50
+Hub / Port        : 
+Computer Name     : HDC0422107
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 
+Service Name      : USBSTOR
+Service Description: @usbstor.inf,%USBSTOR.SvcDesc%;USB Mass Storage Driver
+Driver Filename   : USBSTOR.SYS
+Device Class      : 
+Device Mfg        : Compatible USB storage device
+Friendly Name     : 
+Power             : 896 mA
+USB Version       : 3.20
+Driver Description: USB Mass Storage Device
+Driver Version    : 10.0.26100.9444
+Driver InfSection : USBSTOR_BULK.NT
+Driver InfPath    : usbstor.inf
+Instance ID       : USB\VID_0781&PID_5581\0401dd5efbc4c2e4695382fe13eabff0fd065035bee34b2939e08d9afcf762490e84000000000000000000007e3aba88ff867d18815581076a31690f
+Capabilities      : Removable, UniqueID, SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
